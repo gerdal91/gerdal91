@@ -1,6 +1,6 @@
-# **<span style="color:#f06292">Your Name's Portfolio</span>**
+# **<span style="color:#f06292">Gökhan ERDAL's Portfolio</span>**
 
-[![GitHub stars](https://img.shields.io/github/stars/<your_username>/<your_repository>?style=social)](https://github.com/<your_username>/<your_repository>/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/bkscam/BksSmart?style=social)](https://github.com/<your_username>/<your_repository>/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/<your_username>/<your_repository>?style=social)](https://github.com/<your_username>/<your_repository>/network/members)
 
 **Welcome to my colorful GitHub portfolio!**
