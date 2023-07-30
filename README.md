@@ -20,6 +20,6 @@
 3. <span style="color:#607d8b">IoT Control:</span> Android app for remote control of IoT devices.
 4. <span style="color:#8bc34a">Social Media API:</span> Node.js backend for real-time updates.
 
-📧 Contact: [email@example.com](mailto:email@example.com) | [LinkedIn](https://www.linkedin.com/in/<your_username>/)
+📧 Contact: [email@example.com](mailto:email@example.com) | [LinkedIn](www.linkedin.com/in/gökhan-erdal-52a889104)
 
 Thank you for visiting! Don't forget to star your favorite repositories! 🌟
